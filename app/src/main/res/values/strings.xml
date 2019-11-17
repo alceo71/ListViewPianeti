@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListViewPianeti</string>
+    <string name="ua">%f UA</string>
+    <string name="volume">%f volume</string>
+    <plurals name="satelliti">
+        <item quantity="one">%d satellite</item>
+        <item quantity="other">%d satelliti</item>
+    </plurals>
+</resources>
